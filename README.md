@@ -43,7 +43,85 @@
      <td>Solution</ td> 
 	</center>
     </tr>
-
+<tr>
+	<td rowspan="15"><b>Goldman Sachs</b></td>
+	<td>Print Anagrams Together</td>
+	<td rowspan="15">C++</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/a.%20Anagrams.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Overlapping rectangles</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/overlapping-rectangles1924/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/b.%20Overlapping_Rectangles.cpp">Click Here</a></td>
+	</tr>
+	
+<tr>
+	<td>Count the subarrays having product less than k</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/c.%20Subarray_Product.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Run Length Encoding</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/run-length-encoding/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/d.%20Length_Encoding.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Ugly Numbers</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/ugly-numbers2254/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/e.%20Ugly_Numbers.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Greatest Common Divisor of Strings</td>
+	<td><a href="https://leetcode.com/problems/greatest-common-divisor-of-strings/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/f.%20Greatest_Common_Divisor.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Find the position of M-th item</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/find-the-position-of-m-th-item1723/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/g.%20Position_Of_Mth_Item.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Total Decoding Messages</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/total-decoding-messages1235/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/h.%20Total_Decoding_Messages.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Number following a pattern</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/number-following-a-pattern3126/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/i.%20Number_Following_Pattern.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>To be updated</td>
+	<td><a href="#">Link</a></td>
+	<td><a href="#">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Find Missing And Repeating</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/find-missing-and-repeating2512/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/k.%20Missing_And_Repeating.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>To be updated</td>
+	<td><a href="#">Link</a></td>
+	<td><a href="#">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Decode the string</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/decode-the-string2444/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/m.%20Decode_String.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Minimum Size Subarray Sum</td>
+	<td><a href="https://leetcode.com/problems/minimum-size-subarray-sum/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/n.%20Minimum_Size_Subarray.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Array Pair Sum Divisibility Problem</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/array-pair-sum-divisibility-problem3257/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/o.%20Array_Sum_Divisibility.cpp">Click Here</a></td>
+	</tr>
+	
 </table>
 <br>
 <br>
