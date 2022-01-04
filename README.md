@@ -92,9 +92,9 @@
 	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/i.%20Number_Following_Pattern.cpp">Click Here</a></td>
 	</tr>
 <tr>
-	<td>To be updated</td>
+	<td>Largest 10 numbers from 10M</td>
 	<td><a href="#">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/j.%20Largest_Numbers.cpp">Click Here</a></td>
 	</tr>
 <tr>
 	<td>Find Missing And Repeating</td>
@@ -102,9 +102,9 @@
 	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/k.%20Missing_And_Repeating.cpp">Click Here</a></td>
 	</tr>
 <tr>
-	<td>To be updated</td>
+	<td>Squares in N*N Chessboard</td>
 	<td><a href="#">Link</a></td>
-	<td><a href="#">Click Here</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/l.%20Square_N*N.cpp">Click Here</a></td>
 	</tr>
 <tr>
 	<td>Decode the string</td>
