@@ -8,7 +8,6 @@ Language: C++
 
 #include<bits/stdc++.h>
 using namespace std;
-
 class Solution {
 	public:
 		string FirstNonRepeating(string A){
