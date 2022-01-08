@@ -27,7 +27,6 @@ class Trie{
     }
 };
 
-
 class Solution{
 public:
     //function to insert char in trie
