@@ -46,7 +46,7 @@
 <tr>
 	<td rowspan="15"><b>Goldman Sachs</b></td>
 	<td>Print Anagrams Together</td>
-	<td rowspan="15">C++</td>
+	<td rowspan="30">C++</td>
 	<td><a href="https://practice.geeksforgeeks.org/problems/print-anagrams-together/1/">Link</a></td>
 	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/a.%20Anagrams.cpp">Click Here</a></td>
 	</tr>
@@ -122,6 +122,84 @@
 	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone1%20-%20Goldman%20Sachs/o.%20Array_Sum_Divisibility.cpp">Click Here</a></td>
 	</tr>
 	
+	
+<tr>
+	<td rowspan="15"><b>Amazon</b></td>
+	<td>Calculating Maximum Profit</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/maximum-profit4657/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/a.%20Maximum_Profit.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Longest Mountain</td>
+	<td><a href="https://leetcode.com/problems/longest-mountain-in-array/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/b.%20Longest_Mountain.cpp">Click Here</a></td>
+	</tr>
+	
+<tr>
+	<td>IPL 2021 - Match Day 2</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/deee0e8cf9910e7219f663c18d6d640ea0b87f87/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/c.%20IPL2021.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Brackets in Multiple Chain Multiplication</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/brackets-in-matrix-chain-multiplication1024/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/d.%20Brackets_Matrix.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Phone Directory</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/phone-directory4628/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/e.%20Phone_Directory.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Maximum of all subarrays of size k</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/maximum-of-all-subarrays-of-size-k3101/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/f.%20Maximum_Subarray.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>First non-repeating character in a stream</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream1216/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/g.%20Non-repeating.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Count ways to N'th Stair(Order does not matter)</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/count-ways-to-nth-stairorder-does-not-matter1322/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/h.%20Nth-Stair.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Which among them forms a perfect Sudoku Pattern ?</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/is-sudoku-valid4820/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/i.%20Valid_Sudoku.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Nuts and Bolts Problem</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/nuts-and-bolts-problem0431/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/j.%20Nuts_And_Bolts.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Tree Serialization and Deserialization</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/serialize-and-deserialize-a-binary-tree/1">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/k.%20Serialise_Binary_Tree.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Column name from a given column number</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/column-name-from-a-given-column-number4244/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/l.%20Column_Name.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Rotten Oranges</td>
+	<td><a href="https://leetcode.com/problems/rotting-oranges/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/m.%20Rotting_Oranges.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Tree Burning</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/burning-tree/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/n.%20Burning_Tree.cpp">Click Here</a></td>
+	</tr>
+<tr>
+	<td>Delete N nodes after M nodes of a linked list</td>
+	<td><a href="https://practice.geeksforgeeks.org/problems/delete-n-nodes-after-m-nodes-of-a-linked-list/1/">Link</a></td>
+	<td><a href="https://github.com/hariketsheth/6Companies30Days/blob/main/Milestone2%20-%20Amazon/o.%20Delete_N_Nodes.cpp">Click Here</a></td>
+	</tr>
 </table>
 <br>
 <br>
